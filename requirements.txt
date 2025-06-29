@@ -1,0 +1,12 @@
+# pip install -r requirements.txt
+fastapi
+uvicorn
+typer
+psycopg2-binary
+python-dotenv
+httpx
+sqlparse
+matplotlib
+pandas
+plotly
+rich
